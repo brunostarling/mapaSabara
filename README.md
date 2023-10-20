@@ -138,9 +138,10 @@ sudo su - mapas
   ```
 
   #### Clonando o repositório (USUÁRIO MAPAS)
-    ```
+
+  ```
 git clone https://github.com/hacklabr/mapasculturais.git
-    ```
+  ```
 
   #### Agora vamos colocar o repositório na branch master. Caso queira você poderá ver todas as versões dosponíveis [aqui](https://github.com/hacklabr/mapasculturais/releases)
   
